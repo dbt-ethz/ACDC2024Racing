@@ -805,7 +805,24 @@ PlayerSettings:
   webGLMemoryGeometricGrowthStep: 0.2
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Android: RCC_LOGITECH;BCG_RCC
+    EmbeddedLinux: RCC_LOGITECH;BCG_RCC
+    GameCoreScarlett: RCC_LOGITECH;BCG_RCC
+    GameCoreXboxOne: RCC_LOGITECH;BCG_RCC
+    LinuxHeadlessSimulation: RCC_LOGITECH;BCG_RCC
+    Nintendo Switch: RCC_LOGITECH;BCG_RCC
+    PS4: RCC_LOGITECH;BCG_RCC
+    PS5: RCC_LOGITECH;BCG_RCC
+    QNX: RCC_LOGITECH;BCG_RCC
+    Stadia: RCC_LOGITECH;BCG_RCC
+    Standalone: RCC_LOGITECH;BCG_RCC
+    VisionOS: RCC_LOGITECH;BCG_RCC
+    WebGL: RCC_LOGITECH;BCG_RCC
+    Windows Store Apps: RCC_LOGITECH;BCG_RCC
+    XboxOne: RCC_LOGITECH;BCG_RCC
+    iPhone: RCC_LOGITECH;BCG_RCC
+    tvOS: RCC_LOGITECH;BCG_RCC
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
